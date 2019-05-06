@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Learning Module v0.99",
+"dataUrl": "Dev Build.data.unityweb",
+"wasmCodeUrl": "Dev Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Dev Build.wasm.framework.unityweb",
+"TOTAL_MEMORY": 419430400,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
